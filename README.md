@@ -34,3 +34,8 @@ Here, as you can see, the images produced before the first epoch barely observes
 However, by the 15th epoch, the images become much more pronouced. although the color is different for them, the texture and color gradient between images remains very similar to the original image. Do note that further epochs do improve the accuracy, but the running time becomes really high for the algorithm.
 
 You would be able to see the final images at the end of the given .ipynb file in this repo.
+
+### Reference Files
+
+1. https://towardsdatascience.com/generative-adversarial-networks-gans-89ef35a60b69
+2. https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair
