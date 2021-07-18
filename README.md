@@ -1,4 +1,5 @@
 # Image-Colorizer
+NOTE: The model cannot be uploaded because of its size. Here's the {link}(https://drive.google.com/file/d/1zxShmCZazbD-6am5l_sRhySYEccRTDr6/view?usp=sharing) to my drive if you want to implement the model locally. The dataset is obtained is from Kaggle whose link is given in the references.
 
 This project is the implementation of a Conditional Generative adverserial network algorithm as given in this research paper. To do so, I have used this dataset available on Kaggle.
 
