@@ -22,7 +22,7 @@ The loss function is the Sigmoid Cross-Entropy loss.
 
 The optimizer used is the adam optimizer.
 
-###Specs Used
+### Specs Used
 
 CPU: Intel i5 8th Gen
 GPU: Kaggle's in-built GPU along with Nvidia GeForce GTX present on my local system
