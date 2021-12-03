@@ -40,3 +40,8 @@ You would be able to see the final images at the end of the given .ipynb file in
 
 1. https://towardsdatascience.com/generative-adversarial-networks-gans-89ef35a60b69
 2. https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair
+
+### Credits
+
+1. Malhar Kulkarni.
+2. Tej Ved
